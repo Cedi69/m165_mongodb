@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "653633161b46288e04d54b06"
+  },
+  "titel": "The Witcher 3: Wild Hunt",
+  "ausgabejahr": 2015,
+  "downloadzahlen": 12000000,
+  "altersgrenze": 18,
+  "art": [
+    "RPG",
+    "Action-Adventure"
+  ],
+  "wertung": "9/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b07"
+  },
+  "titel": "Minecraft",
+  "ausgabejahr": 2011,
+  "downloadzahlen": 200000000,
+  "altersgrenze": 10,
+  "art": [
+    "Sandbox",
+    "Abenteuer"
+  ],
+  "wertung": "7/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b08"
+  },
+  "titel": "Fortnite",
+  "ausgabejahr": 2017,
+  "downloadzahlen": 350000000,
+  "altersgrenze": 12,
+  "art": [
+    "Battle Royale",
+    "Shooter"
+  ],
+  "wertung": "7/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b09"
+  },
+  "titel": "Forza Horison",
+  "ausgabejahr": 2013,
+  "downloadzahlen": 9000000,
+  "altersgrenze": 12,
+  "art": [
+    "Car",
+    "Open World"
+  ],
+  "wertung": "9/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0a"
+  },
+  "titel": "Red Dead Redemption 2",
+  "ausgabejahr": 2018,
+  "downloadzahlen": 3000000,
+  "altersgrenze": 18,
+  "art": [
+    "Action",
+    "Open Game"
+  ],
+  "wertung": "7/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0b"
+  },
+  "titel": "Fallout",
+  "ausgabejahr": 2008,
+  "downloadzahlen": 300000,
+  "altersgrenze": 16,
+  "art": [
+    "First-Person Shooter"
+  ],
+  "wertung": "7/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0c"
+  },
+  "titel": "FIFA 22",
+  "ausgabejahr": 2021,
+  "downloadzahlen": 75000000,
+  "altersgrenze": 0,
+  "art": [
+    "Sport",
+    "Simulation"
+  ],
+  "wertung": "9/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0d"
+  },
+  "titel": "Doom Eternal",
+  "ausgabejahr": 2020,
+  "downloadzahlen": 5000000,
+  "altersgrenze": 18,
+  "art": [
+    "Ego-Shooter"
+  ],
+  "wertung": "9/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0e"
+  },
+  "titel": "Spider Mann",
+  "ausgabejahr": 2018,
+  "downloadzahlen": 45000000,
+  "altersgrenze": 10,
+  "art": [
+    "Mehrspieler",
+    "Fun"
+  ],
+  "wertung": "8/10"
+},
+{
+  "_id": {
+    "$oid": "653633161b46288e04d54b0f"
+  },
+  "titel": "Hello Neighbour",
+  "ausgabejahr": 2013,
+  "downloadzahlen": 65000000,
+  "altersgrenze": 12,
+  "art": [
+    "Horror",
+    "Open World"
+  ],
+  "wertung": "6/10"
+}]
